@@ -1,0 +1,1 @@
+export default import('../dist/ngbithousseone/server/server.mjs').then(module => module.app());
